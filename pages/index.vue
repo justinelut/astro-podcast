@@ -1,8 +1,8 @@
 <script setup lang="ts">
 useHead({
-  title: 'Podux - Home',
+  title: 'Pixel Podcast- Home',
   meta: [
-    { name: 'description', content: 'Podux Podcast landing page website.' },
+    { name: 'description', content: 'Pixel Podcast landing page website.' },
   ],
   link: [
     { rel: 'icon', type: 'image/png', href: '/logo.png' }
